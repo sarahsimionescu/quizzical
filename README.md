@@ -20,3 +20,6 @@ It was a lot of fun learning to use React and I cannot wait to use these skills 
 5. Open http://localhost:3000 in your browser
 6. Have fun!!
 
+![image](https://github.com/sarahsimionescu/quizzical/blob/main/quizzical.png)
+![image](https://github.com/sarahsimionescu/quizzical/blob/main/quizzical-answered.png)
+![image](https://github.com/sarahsimionescu/quizzical/blob/main/quizzical-incorrect-answers.png)

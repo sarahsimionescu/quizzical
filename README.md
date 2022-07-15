@@ -7,11 +7,16 @@ It was a lot of fun learning to use React and I cannot wait to use these skills 
 
 ## How to Use
 1. Install Node.js https://nodejs.org/en/download/
-2. cd into this repository
-3. In your terminal write...
+2. In your terminal write...
+    ```
+    npx create-react-app quizzical
+    cd quizzical
+    ```
+3. Replace the public and src folders with the ones in this repository
+4. 
     ```
     npm start
     ```
-4. Open http://localhost:3000 in your browser
-5. Have fun!!
+5. Open http://localhost:3000 in your browser
+6. Have fun!!
 
